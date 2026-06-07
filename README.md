@@ -102,9 +102,9 @@ Interactive dashboards and data-driven solutions focused on transforming raw dat
 
 📧 Email: ananyachaurasia80@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
+💼 LinkedIn: https://www.linkedin.com/in/itsananya8
 
-🐙 GitHub: https://github.com/your-github
+🐙 GitHub: https://github.com/ananyaintech
 
 🔗 Portfolio Website: https://your-portfolio-link.vercel.app
 
