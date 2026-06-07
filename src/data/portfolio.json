@@ -1,0 +1,13 @@
+{
+  "name": "Ananya Chaurasia",
+  "role": "Data Scientist & AI Analytics Expert",
+  "bio": "Transforming complex data into actionable insights using AI-powered analytics.",
+  "socials": {
+    "github": "https://github.com/ananya",
+    "linkedin": "https://linkedin.com/in/ananya",
+    "email": "ananya@example.com"
+  },
+  "skills": [
+    "Python", "R", "SQL", "TensorFlow", "React", "Tableau", "PowerBI"
+  ]
+}
