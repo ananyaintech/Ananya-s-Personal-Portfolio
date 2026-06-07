@@ -1,73 +1,120 @@
-# React + TypeScript + Vite
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Engineer;Aspiring+Data+Analyst;AI+Enthusiast;Frontend+Developer;Always+Learning+Something+New&center=true&width=700&height=50">
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ✨ Ananya Chaurasia's Personal Portfolio
 
-Currently, two official plugins are available:
+<div align="center">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### 🚀 Computer Science Engineer | Aspiring Data Analyst | AI Enthusiast
 
-## React Compiler
+Building intelligent solutions, crafting immersive digital experiences, and transforming ideas into impactful products.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🌐 Modern • Interactive • AI-Powered • Responsive
 
-## Expanding the ESLint configuration
+</div>
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## 🌟 About This Portfolio
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+Welcome to my digital space!
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+This portfolio is designed to showcase my technical expertise, projects, certifications, achievements, and professional journey as a Computer Science Engineer. It combines modern web technologies, interactive animations, AI-powered features, and responsive design to create an engaging user experience.
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+Whether you're a recruiter, collaborator, or fellow developer, this website provides a comprehensive view of my work, skills, and passion for technology.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+---
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## 🚀 Features
+
+✨ Modern & Professional UI/UX
+
+🤖 AI-Powered Portfolio Assistant
+
+📊 Data Analytics & AI Project Showcase
+
+🎓 Certifications & Learning Journey
+
+💼 Experience & Technical Skills
+
+📱 Fully Responsive Design
+
+⚡ Smooth Animations & Interactive Elements
+
+📄 Resume Download & Contact Form
+
+🌐 Fast Deployment with Vercel
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* TypeScript
+* Vite
+* Tailwind CSS
+
+### Integrations
+
+* Google Gemini AI
+* EmailJS
+
+### Development Tools
+
+* Git & GitHub
+* VS Code
+* Vercel
+
+---
+
+## 💡 Featured Projects
+
+### 🏥 MedAlert
+
+AI-powered healthcare observation and patient monitoring system designed to improve safety and real-time decision-making.
+
+### 🛡️ Raksha Kavach
+
+Industrial safety monitoring platform utilizing AI for PPE compliance tracking, risk analysis, and workplace safety recommendations.
+
+### 📈 Data Analytics Projects
+
+Interactive dashboards and data-driven solutions focused on transforming raw data into actionable insights.
+
+---
+
+## 🎯 What I'm Passionate About
+
+* Artificial Intelligence
+* Data Analytics
+* Machine Learning
+* Frontend Development
+* UI/UX Design
+* Problem Solving
+* Building Real-World Solutions
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: [your-email@example.com](mailto:your-email@example.com)
+
+💼 LinkedIn: https://linkedin.com/in/your-linkedin
+
+🐙 GitHub: https://github.com/your-github
+
+---
+
+<div align="center">
+
+### ✨ Turning Ideas Into Intelligent Experiences ✨
+
+Thank you for visiting my portfolio!
+
+If you like this project, don't forget to ⭐ the repository.
+
+</div>
+
