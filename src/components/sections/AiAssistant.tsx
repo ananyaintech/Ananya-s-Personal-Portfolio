@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Send, X, Bot, Sparkles, User, MessageSquare, ShieldCheck, RefreshCcw } from "lucide-react";
+import { Send, X, Bot, Sparkles } from "lucide-react";
 import { RECRUITER_KNOWLEDGE_BASE, CHAT_SUGGESTIONS } from "../../constants/recruiterData";
 import { getGeminiResponse } from "../../services/gemini";
 

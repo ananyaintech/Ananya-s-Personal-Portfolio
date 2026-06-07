@@ -152,7 +152,7 @@ export const AnalyticsDashboard = () => {
                   animationBegin={400}
                   animationDuration={1500}
                 >
-                  {distributionData.map((entry, index) => (
+                  {distributionData.map((_, index) => (
                     <Cell
                       key={`cell-${index}`}
                       fill={COLORS[index % COLORS.length]}

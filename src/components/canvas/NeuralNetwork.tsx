@@ -18,7 +18,7 @@ const NeuralNetwork = () => {
     return p;
   }, []);
 
-  useFrame((state) => {
+  useFrame(() => {
     if (groupRef.current) {
       groupRef.current.rotation.y += 0.001;
       groupRef.current.rotation.x += 0.001;
@@ -40,6 +40,7 @@ const NeuralNetwork = () => {
             const linePoints = [p1, p2];
             const lineGeometry = new THREE.BufferGeometry().setFromPoints(linePoints);
             return (
+              /* @ts-ignore */
               <line key={`${i}-${j}`} geometry={lineGeometry}>
                 <lineBasicMaterial color="#915EFF" transparent opacity={0.2} />
               </line>

@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Github, ExternalLink, ShieldCheck, Activity, Brain } from "lucide-react";
+import { Github } from "lucide-react";
 import { projects } from "../../constants";
 
 const ProjectCard = ({ index, name, description, tags, source_code_link, features, image }: any) => {

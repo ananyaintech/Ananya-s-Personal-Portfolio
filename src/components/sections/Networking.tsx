@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Network, Shield, Cpu, Globe, Server, Share2 } from "lucide-react";
+import { Shield, Cpu, Globe, Server, Share2 } from "lucide-react";
 
 const NetworkNode = ({ x, y, label, icon: Icon, delay = 0 }: any) => (
   <motion.div

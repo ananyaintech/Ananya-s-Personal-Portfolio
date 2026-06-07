@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import { Terminal, BarChart3, Network, BrainCircuit } from "lucide-react";
-import { cn } from "../../utils/cn";
 
 const services = [
   {
