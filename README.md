@@ -100,11 +100,13 @@ Interactive dashboards and data-driven solutions focused on transforming raw dat
 
 ## 🌐 Connect With Me
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: ananyachaurasia80@gmail.com
 
 💼 LinkedIn: https://linkedin.com/in/your-linkedin
 
 🐙 GitHub: https://github.com/your-github
+
+🔗 Portfolio Website: https://your-portfolio-link.vercel.app
 
 ---
 
